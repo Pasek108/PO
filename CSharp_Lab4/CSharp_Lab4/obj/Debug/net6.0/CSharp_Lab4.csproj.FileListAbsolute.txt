@@ -1,0 +1,15 @@
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\bin\Debug\net6.0\CSharp_Lab4.exe
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\bin\Debug\net6.0\CSharp_Lab4.deps.json
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\bin\Debug\net6.0\CSharp_Lab4.runtimeconfig.json
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\bin\Debug\net6.0\CSharp_Lab4.dll
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\bin\Debug\net6.0\CSharp_Lab4.pdb
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\CSharp_Lab4.csproj.AssemblyReference.cache
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\CSharp_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\CSharp_Lab4.AssemblyInfoInputs.cache
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\CSharp_Lab4.AssemblyInfo.cs
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\CSharp_Lab4.csproj.CoreCompileInputs.cache
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\CSharp_Lab4.dll
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\refint\CSharp_Lab4.dll
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\CSharp_Lab4.pdb
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\CSharp_Lab4.genruntimeconfig.cache
+C:\Vanilla\Java\PO\CSharp_Lab4\CSharp_Lab4\obj\Debug\net6.0\ref\CSharp_Lab4.dll

@@ -1,0 +1,19 @@
+ public class Person
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Pesel { get; set; }
+    }
+
+
+    public interface IPersonRepository
+    {
+        List<Person> GetAll();
+        Person GetById(int id);
+        void Add(Person personToAdd);
+        void Update(Person personToUpdate);
+        void Remove(int id);
+
+        int CountPersonOverYrs(int yearsFromCount);
+    }
